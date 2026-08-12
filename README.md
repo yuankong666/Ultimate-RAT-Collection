@@ -1,6 +1,6 @@
 <p align="center">
 <img width="152" height="152" src="https://github.com/user-attachments/assets/9f6953de-0437-4435-a817-3a7619a6af09"><br>
-<img alt="Repo Size" src="https://img.shields.io/github/repo-size/Cryakl/Ultimate-RAT-Collection"> <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Cryakl/Ultimate-RAT-Collection">
+<img alt="Repo Size" src="https://img.shields.io/github/repo-size/Yuankong666/Ultimate-RAT-Collection"> <img alt="Last Commit" src="https://img.shields.io/github/last-commit/Yuankong666/Ultimate-RAT-Collection">
 </p>
 
 <h1 align="center">Archive password: infected</h1><br>
